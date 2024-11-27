@@ -1,0 +1,44 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Godzilla",
+      "rating": "4.9"
+    },
+    {
+      "id": "2",
+      "title": "Avengers",
+      "rating": "4.7"
+    },
+    {
+      "id": "3",
+      "title": "Superman",
+      "rating": "4.8"
+    },
+    {
+      "id": "4",
+      "title": "Batman",
+      "rating": "4.6"
+    },
+    {
+      "id": "fc32",
+      "title": "Avengers",
+      "rating": "4.0"
+    },
+    {
+      "id": "d004",
+      "title": "Avengers",
+      "rating": "4.0"
+    },
+    {
+      "id": "7990",
+      "title": "Avengers",
+      "rating": "4.0"
+    },
+    {
+      "id": "f7f7",
+      "title": "Star wars",
+      "rating": "5.0"
+    }
+  ]
+}
